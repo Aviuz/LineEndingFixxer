@@ -1,0 +1,8 @@
+C:\Git Repository\TransformUnixWinNewlines\Source\bin\Debug\TUWNl_converter.exe.config
+C:\Git Repository\TransformUnixWinNewlines\Source\bin\Debug\TUWNl_converter.exe
+C:\Git Repository\TransformUnixWinNewlines\Source\bin\Debug\TUWNl_converter.pdb
+C:\Git Repository\TransformUnixWinNewlines\Source\obj\Debug\TransformUnixWinNewlines.Resource.resources
+C:\Git Repository\TransformUnixWinNewlines\Source\obj\Debug\TransformUnixWinNewlines.csproj.GenerateResource.Cache
+C:\Git Repository\TransformUnixWinNewlines\Source\obj\Debug\TransformUnixWinNewlines.csproj.CoreCompileInputs.cache
+C:\Git Repository\TransformUnixWinNewlines\Source\obj\Debug\TUWNl_converter.exe
+C:\Git Repository\TransformUnixWinNewlines\Source\obj\Debug\TUWNl_converter.pdb
